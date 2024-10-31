@@ -79,6 +79,3 @@ The regression analysis reveals a strong relationship between the independent va
 
 ## Future Work
 Future analysis could consider additional variables such as location, property age, and amenities to further refine the model's predictive capabilities.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
